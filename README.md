@@ -13,3 +13,5 @@ Web Science AE 2020, University fo Glasgow
 5. clusters.txt has the different clusters extracted.
 
 6. extract_hashtags.py gets hashtags from the data and saves into csv, but can be modified.
+
+7. Some of the packages will need to be installed if not already on your system.
